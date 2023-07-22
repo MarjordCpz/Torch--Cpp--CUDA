@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.docx": "ooxml",
+        "*.cu": "cpp",
+        "*.py": "python",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    }
+}
